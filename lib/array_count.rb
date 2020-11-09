@@ -12,5 +12,5 @@ def count_empty_strings(array)
    element.is_a?(String)
     
   end
-  binding.pry
+
 end
